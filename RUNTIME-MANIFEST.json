@@ -1,0 +1,802 @@
+[
+  {
+    "path": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "ATTRIBUTION.md",
+    "bytes": 1653,
+    "sha256": "ff7d21f3922de69322c42cabd33bfe9c38b29ea18251ef65c9eebc90fa5301df"
+  },
+  {
+    "path": "anti-aging.html",
+    "bytes": 8513,
+    "sha256": "3226ce92b2f8a76ab9e97916b39cb2333fd4be991e71c66c9a5e46d76eaa0ed0"
+  },
+  {
+    "path": "artikel.html",
+    "bytes": 7934,
+    "sha256": "f7491416f047d5a865ac975b0d21bb72ad6c466d9d0110c00ec0bb9155d0134b"
+  },
+  {
+    "path": "assets/css/about-wow.css",
+    "bytes": 7756,
+    "sha256": "abc2d7efcb172056f04fe19b684c3f602ded0603f5199f2a053ebf1d8ba64418"
+  },
+  {
+    "path": "assets/css/anti-aging-wow.css",
+    "bytes": 10276,
+    "sha256": "1a756b7874264f63d09834ce22c4bd4b4d3ea4671f0ef18366f518073a4eadc7"
+  },
+  {
+    "path": "assets/css/ozone.css",
+    "bytes": 17939,
+    "sha256": "c3b7a12d2d33c84233dca3f794b083eafb5e71a783a722b37652cca3aee47639"
+  },
+  {
+    "path": "assets/css/pages.css",
+    "bytes": 23336,
+    "sha256": "897c0f83639fcb2e8201dc8916de396b80cdb496461dc52f1522a94976b8e026"
+  },
+  {
+    "path": "assets/css/palliative-wow.css",
+    "bytes": 12583,
+    "sha256": "818556ac3177cfaa839c87b9ffcfe7829f564a29aad1be85c755745f9c551077"
+  },
+  {
+    "path": "assets/css/style.css",
+    "bytes": 101828,
+    "sha256": "ecf8786cafad1d5f9a232885df8451d2a9afc127c28ebeda75d0c0e46000475a"
+  },
+  {
+    "path": "assets/docs/medical-ozone-therapy.pdf",
+    "bytes": 353071,
+    "sha256": "701ed2c0d6e466700b5e2133974bfeba2511d401b4b71109c22d6cab4fde2ac1"
+  },
+  {
+    "path": "assets/docs/palliative-complementary.pdf",
+    "bytes": 355356,
+    "sha256": "f84bc81a10154f0a4c4b9ee3757e388a0bf4577a1ed8089cb40fc357d0aa2337"
+  },
+  {
+    "path": "assets/docs/q-life-klinik-integrative-care-2026.pdf",
+    "bytes": 1057332,
+    "sha256": "a5eaa8f19d0e81f18ce6b99c2e36afd87fb6d9c5191071a1b2fb6e1f50d98b23"
+  },
+  {
+    "path": "assets/hero_bg.mp4",
+    "bytes": 156964,
+    "sha256": "02b8bfb2e4113017744706adff5e675b34164179d73a155224a71f475c249b09"
+  },
+  {
+    "path": "assets/hero_poster.webp",
+    "bytes": 26628,
+    "sha256": "0962e2416e2b15cad759cfe63757613b815fe16e3dd88001b261038e7c2a93ee"
+  },
+  {
+    "path": "assets/img/about/anti-aging-source.webp",
+    "bytes": 24008,
+    "sha256": "ce8c2b2a42316c28fffef49890d6d19fbe3ce98de2d51e45710e1df2b2550aee"
+  },
+  {
+    "path": "assets/img/about/clinic-brochure-banner.webp",
+    "bytes": 44788,
+    "sha256": "64a534667777af21be1df4e568f49ebfbc2f14a804358a21c015530a1ec16f25"
+  },
+  {
+    "path": "assets/img/about/clinic-slide-1.webp",
+    "bytes": 48702,
+    "sha256": "480ad98424068453661e17ee84de1703c2f4c16cbffdfed3b9a4377d695299a8"
+  },
+  {
+    "path": "assets/img/about/clinic-slide-2.webp",
+    "bytes": 52812,
+    "sha256": "adcbf9242a1c0ad3c0646dfaa26d747e5b869d7649c09627d8a1d4273e01ebf0"
+  },
+  {
+    "path": "assets/img/about/clinic-slide-3.webp",
+    "bytes": 56636,
+    "sha256": "94e22a6f4012b76f6f81529ebcf886272735a1017a04c583a2b66b173e1d1c77"
+  },
+  {
+    "path": "assets/img/about/evidence/clinical-assessment-2026-mobile.webp",
+    "bytes": 17414,
+    "sha256": "4d69cfaf61b8a624da6017dbbbf3110e83a14ffaa176d7a7341086dc228cb0c4"
+  },
+  {
+    "path": "assets/img/about/evidence/clinical-assessment-2026.webp",
+    "bytes": 21466,
+    "sha256": "97076260a1c9c7be019692b3ce906550f4783839d0eb30878999301ddce9c3a7"
+  },
+  {
+    "path": "assets/img/about/evidence/clinical-service-2026-mobile.webp",
+    "bytes": 18514,
+    "sha256": "e37c3c2d0e473da1a821115b0772cc3fd6ff30be1707303412592f38145a3890"
+  },
+  {
+    "path": "assets/img/about/evidence/clinical-service-2026.webp",
+    "bytes": 19204,
+    "sha256": "510636d9425892384c496bee5e8d6e51d0ec0aa080935e56ae6fb26a95cc8f89"
+  },
+  {
+    "path": "assets/img/about/evidence/facility-therapy-2026-mobile.webp",
+    "bytes": 39062,
+    "sha256": "20a0765ace756d0605a67455a775f1c1acb57be074806057d1e11b2cd752152c"
+  },
+  {
+    "path": "assets/img/about/evidence/facility-therapy-2026.webp",
+    "bytes": 60224,
+    "sha256": "744c73420dcc8246fc5a4b46f7ce7c568d172cc8eef6383099c64fb6f8521520"
+  },
+  {
+    "path": "assets/img/about/hd/clinic-proof-desktop.webp",
+    "bytes": 65118,
+    "sha256": "ea5ae586092eb7b14d5145fba410757703c53fad66f43ef144097cc8ec265f93"
+  },
+  {
+    "path": "assets/img/about/hd/clinic-proof-mobile.webp",
+    "bytes": 38040,
+    "sha256": "50f96f0ad9e14210f140607edc2a52a1649a73612d25dece01d9752352806ca1"
+  },
+  {
+    "path": "assets/img/about/palliative-source.webp",
+    "bytes": 40344,
+    "sha256": "5a4dedb95017d7df93aaf9998361c2f853869441f797bc28cea073d69019f712"
+  },
+  {
+    "path": "assets/img/about/q-life-team-front-clinic-2026-mobile.webp",
+    "bytes": 72278,
+    "sha256": "3ec1c65d4a9a3e45b7ae5f34d87b5a95069911b4afe565fde60472bcdf66c803"
+  },
+  {
+    "path": "assets/img/about/q-life-team-front-clinic-2026.webp",
+    "bytes": 118772,
+    "sha256": "e9f7c289c0bf27ad20de9c5501c4b8b86ef4b3ea7c21f10778aa462d3b453990"
+  },
+  {
+    "path": "assets/img/about/therapy-ozone-source.webp",
+    "bytes": 47874,
+    "sha256": "ddb1031214a56e8da6e546e2a89407f3c569d78379811ccc176ebbddcbf6c758"
+  },
+  {
+    "path": "assets/img/about-clinic.webp",
+    "bytes": 66138,
+    "sha256": "8e393ec00f595e98c30d90c77ee441aba0bfbae1147f4d76b4b0c164b0a26fc5"
+  },
+  {
+    "path": "assets/img/accreditation/q-life-paripurna-announcement.webp",
+    "bytes": 209248,
+    "sha256": "4f09077281770b854b5a9d45fe90960d5d28eec97cd4a52453744cc96b2cd17c"
+  },
+  {
+    "path": "assets/img/brand/q-glyph.png",
+    "bytes": 2403,
+    "sha256": "5c7911853dddb752c43649c6743ff9788d81d60ef0280a5cfcb125b15462ea2b"
+  },
+  {
+    "path": "assets/img/clinic-antiaging-sign.webp",
+    "bytes": 29088,
+    "sha256": "d30e0b6c2b2c8b0708fc4cfd9917d9d9d311b42945323a288c180679f318b37a"
+  },
+  {
+    "path": "assets/img/content_-56cd1db156645.webp",
+    "bytes": 22932,
+    "sha256": "051ce77b34abb34e2e9f6d72450c848ac2f04e4278cb67ce4d7d58aaf4ff40ac"
+  },
+  {
+    "path": "assets/img/content_-56cd21a4e760a.webp",
+    "bytes": 13630,
+    "sha256": "f8e92f91741aec86708d3913214a61cb6f8400a8513ba26d8f430e6b09ced99a"
+  },
+  {
+    "path": "assets/img/doctors/dr-feri-wirjawan-2026.webp",
+    "bytes": 48506,
+    "sha256": "95a29251f2506b82e51b93d77b661a123c2310b03fa273f894ce72031b0c6e7b"
+  },
+  {
+    "path": "assets/img/doctors/dr-feri-wirjawan-card-2026.webp",
+    "bytes": 31162,
+    "sha256": "7a22a1a3a2a38b556d19d97642324d546334fbdcea1ecc64e8a4ef36c9728cf3"
+  },
+  {
+    "path": "assets/img/doctors/dr-sri-budiwati-2026.webp",
+    "bytes": 44868,
+    "sha256": "789d089582971e2d35191630924912d044de0e845c9512fa0b8e4d43be2de5c3"
+  },
+  {
+    "path": "assets/img/doctors/dr-sri-budiwati-card-2026.webp",
+    "bytes": 37250,
+    "sha256": "38354bb83963a1fc09d22b1bcefbdbb6d2ebd4bff9059de0ac1de27a21c6f319"
+  },
+  {
+    "path": "assets/img/dokter-feri.webp",
+    "bytes": 31684,
+    "sha256": "ad8eaeb1c588a3436d9f75ad58a59fee75fc59e170e18276e71ab4ee50cef102"
+  },
+  {
+    "path": "assets/img/dokter-sri.webp",
+    "bytes": 8090,
+    "sha256": "55426662ee09beac67ceb5f1710669c76edb93e73d6fbfaa69de8ecd309cc11a"
+  },
+  {
+    "path": "assets/img/favicon-192.png",
+    "bytes": 20390,
+    "sha256": "5b8b9b5398fd2169455cbc25cbef2e1b62cc8f5a844b29a2259159831390b004"
+  },
+  {
+    "path": "assets/img/favicon-32.png",
+    "bytes": 1994,
+    "sha256": "210d738e852f8aa8415bb708553579b772a5a2a2fd3b6aaca4d244a106f3cd89"
+  },
+  {
+    "path": "assets/img/favicon.svg",
+    "bytes": 467,
+    "sha256": "3651352a17bf16929976efa03cecc20048052d7970abcd01e32b677e6b1b3512"
+  },
+  {
+    "path": "assets/img/footer-logo-on-dark.webp",
+    "bytes": 119784,
+    "sha256": "417b648d092f034aae6d3cae058ffd3d2c23e1ed4f41ffe7292709ea3601e717"
+  },
+  {
+    "path": "assets/img/gallery/gallery-01.webp",
+    "bytes": 32260,
+    "sha256": "1816d7f5cd1ef221f3a8b909e28b27c75318f02b76d7a23c06e37fa225f26ef5"
+  },
+  {
+    "path": "assets/img/gallery/gallery-02.webp",
+    "bytes": 40298,
+    "sha256": "fd52354065bce7509f9248c4f6328009c1b1e53f84ce78ff53c8b15e43069eda"
+  },
+  {
+    "path": "assets/img/gallery/gallery-03.webp",
+    "bytes": 55608,
+    "sha256": "449aadf8ba0042ade61de3b035ba18d0b349b1a219353a74a5a2e1c84817e82b"
+  },
+  {
+    "path": "assets/img/gallery/gallery-04.webp",
+    "bytes": 53608,
+    "sha256": "1299aedf825db4eb8bc2bb25e8a95c6221a6f645cd04c673605393cd4c2b8301"
+  },
+  {
+    "path": "assets/img/gallery/gallery-05.webp",
+    "bytes": 49526,
+    "sha256": "db351ce547bbfde9ecd3eedd45928dd8c24a0adecbb0c854e3b8e9a6ce2caf07"
+  },
+  {
+    "path": "assets/img/gallery/gallery-06.webp",
+    "bytes": 56722,
+    "sha256": "0d24aef05e00b391e28386d63d986e1bd1870a7995a566e5e6ae988adc0cf530"
+  },
+  {
+    "path": "assets/img/gallery/gallery-07.webp",
+    "bytes": 51186,
+    "sha256": "3b17745758b6388ef69d7d9e31aa8345f0e3e7fda8084ea9637f78e507352c22"
+  },
+  {
+    "path": "assets/img/gallery/gallery-08.webp",
+    "bytes": 30440,
+    "sha256": "4dc6d9e12f5ee7935739c57ab69bef567f47a0c26607e33ade96ed41e19863ba"
+  },
+  {
+    "path": "assets/img/gallery/gallery-09.webp",
+    "bytes": 59422,
+    "sha256": "4a460f6288d7383601f1765e4d5838a0a64be6202ba700d1ff9364c0484e8e2c"
+  },
+  {
+    "path": "assets/img/gallery/gallery-10.webp",
+    "bytes": 55878,
+    "sha256": "90bd913fd479f4458fe8ec5b8801158b71bdbee169813d5316c0be2859be13c5"
+  },
+  {
+    "path": "assets/img/gallery/gallery-11.webp",
+    "bytes": 51618,
+    "sha256": "bfac1bfc336b4fc6704e904cfac1ffb8a98597d29ebe6be5a308037d981ddd85"
+  },
+  {
+    "path": "assets/img/gallery/gallery-12.webp",
+    "bytes": 31194,
+    "sha256": "7a54c6ca35ad70895cbdb7e0941a97d79e484444cd145812f4e55dfaaea2a2fa"
+  },
+  {
+    "path": "assets/img/headerlogo.png",
+    "bytes": 77665,
+    "sha256": "a1006dc3824e9120bfd6dd8debe633db5b9c1871f626eaa37710f46422f94eda"
+  },
+  {
+    "path": "assets/img/headerlogo.webp",
+    "bytes": 38252,
+    "sha256": "6810466fe67acf37d1c81067bb29c09ff11b69ec6944f11201ca5019c3148056"
+  },
+  {
+    "path": "assets/img/home/philosophy-care-room-2026-mobile.webp",
+    "bytes": 34394,
+    "sha256": "ecf75d9e7f4703b9e506ca8c9268dc30876abb418e3f669685d25bc8fef443e7"
+  },
+  {
+    "path": "assets/img/home/philosophy-care-room-2026.webp",
+    "bytes": 74562,
+    "sha256": "a6388584eebb3f18ec041172a353145e1c2c76089f940efc262380a6e15f4b23"
+  },
+  {
+    "path": "assets/img/home/q-life-clinic-facade-2026.webp",
+    "bytes": 51708,
+    "sha256": "9a63fe9784168496514b62cf8780e19b0cd263df84e2d69056ec574d52927e61"
+  },
+  {
+    "path": "assets/img/medical-ozone-consultation-cta-mobile-2026.webp",
+    "bytes": 38836,
+    "sha256": "50d9fbd297a58558e49f754bad793de85304461a9b4a6b7bfd329a8d8b6f41c3"
+  },
+  {
+    "path": "assets/img/medical-ozone-consultation-cta.webp",
+    "bytes": 327430,
+    "sha256": "583dc066f17872313814e3a9b289d4ba4a02c94f39f1770678d1ceb001e9d242"
+  },
+  {
+    "path": "assets/img/medical-ozone-protocol.webp",
+    "bytes": 493358,
+    "sha256": "185320341e8f50532acfd50f18e6bb3858602cc8b11a34fbf8674e9fd3210027"
+  },
+  {
+    "path": "assets/img/medical-ozone-session-care.webp",
+    "bytes": 288642,
+    "sha256": "e5908fffd1a68e88dacd9c71f13422c7f47f9d111cdaebc7b0b5485af497a32a"
+  },
+  {
+    "path": "assets/img/medical-ozone-team-care.webp",
+    "bytes": 567486,
+    "sha256": "11a5ee4ff82b6536e75dc342a2302feeca45df08a7c63baf11669fe562eff0e8"
+  },
+  {
+    "path": "assets/img/palliative/hd/dignity-peak-desktop.webp",
+    "bytes": 286630,
+    "sha256": "74904099afe33d2e4da51f86331b1bb467f2fc119ed9fd1b387987ab317bbf0e"
+  },
+  {
+    "path": "assets/img/palliative/hd/dignity-peak-mobile.webp",
+    "bytes": 98248,
+    "sha256": "e8d7342b66c3fb599b187ce85504fbcb43192de8966ba88ba9956455a459bf42"
+  },
+  {
+    "path": "assets/img/palliative/hd/family-support-desktop.webp",
+    "bytes": 253878,
+    "sha256": "018ed3bab83376423d4f9fe81deeaae34833a81951dbafaf0609bd6f64e72bb9"
+  },
+  {
+    "path": "assets/img/palliative/hd/family-support-mobile.webp",
+    "bytes": 223456,
+    "sha256": "e264520e9917d8564a40b0a67e129aeaf54aa4f0546dc8a46095abc28fce97e5"
+  },
+  {
+    "path": "assets/img/palliative/hd/hero-care-desktop.webp",
+    "bytes": 160990,
+    "sha256": "009d549d37444b9c6ed595e9ff9248b2cc97e01aabc04abce2bc0239de4c89f6"
+  },
+  {
+    "path": "assets/img/palliative/hd/hero-care-mobile.webp",
+    "bytes": 66958,
+    "sha256": "b6617ea190cf21b721cbadb84e657f0f93c6560631770eca02e906ccc5b1db31"
+  },
+  {
+    "path": "assets/img/palliative/hero-couple.webp",
+    "bytes": 86922,
+    "sha256": "837de192a16fa1c6b9379505c93eca6940fa8c8d82e5230e36d5ea52e2c76f78"
+  },
+  {
+    "path": "assets/img/real/eboo-arm-closeup.webp",
+    "bytes": 5598,
+    "sha256": "c0e9adee9aa28cf24f94fc22443ef4a9e94f0bdf1fd1e7b8d0864f5d1123730f"
+  },
+  {
+    "path": "assets/img/real/eboo-man-chair.webp",
+    "bytes": 22526,
+    "sha256": "aa113f7adfc33e7b7450b8b3f1c51aa7fc45b8fa6b74747edf696939e4e1b801"
+  },
+  {
+    "path": "assets/img/real/eboo-woman-bed.webp",
+    "bytes": 25542,
+    "sha256": "98375601c2fb580e5eac334a9827c3a7e4f3ab28877322255d172e7ec5fec619"
+  },
+  {
+    "path": "assets/img/real/gallery-01.webp",
+    "bytes": 33344,
+    "sha256": "6d39aab0a9284023b48b3231b889d9603dd70c9386a9b3880e269b7e554a7384"
+  },
+  {
+    "path": "assets/img/real/gallery-11.webp",
+    "bytes": 19612,
+    "sha256": "af2e73f695d18053ea96b732423fb7ac10f33628dd031b7db667c70630489d6c"
+  },
+  {
+    "path": "assets/img/reviews/asmau-sholihan-1.webp",
+    "bytes": 79880,
+    "sha256": "45dd19dde076a4d003540658756364580adaee4502a6ed830e2771db68fd3efd"
+  },
+  {
+    "path": "assets/img/reviews/attention-cp-1.webp",
+    "bytes": 11716,
+    "sha256": "d66c0c51be7b25e8059ca5e3d712040ef3e03d013fc5e2a625e683e9887e4d49"
+  },
+  {
+    "path": "assets/img/reviews/attention-cp-2.webp",
+    "bytes": 10682,
+    "sha256": "b3c216032b56b78d6b2188560823425c98be33f8abe826dee3ab3afb2ffc8d84"
+  },
+  {
+    "path": "assets/img/reviews/jessica-augri-isaskar-mandang-1.webp",
+    "bytes": 91374,
+    "sha256": "7636ccf46b632e934250022a09dc6e3c5bbea95f717b3bce9adcf3eb5a2f7f1b"
+  },
+  {
+    "path": "assets/img/reviews/jessica-augri-isaskar-mandang-2.webp",
+    "bytes": 126760,
+    "sha256": "640e91be646c4c6cf024cc41f4b2c44ded850832f7abba5c2391113298845e7c"
+  },
+  {
+    "path": "assets/img/reviews/kenny-haryono-1.webp",
+    "bytes": 67236,
+    "sha256": "cd95db76e568dce4cb2117125078707a61c4b3b5cc7cb4b3b59ffa8ffc9a649d"
+  },
+  {
+    "path": "assets/img/reviews/kenny-haryono-2.webp",
+    "bytes": 72460,
+    "sha256": "d436eee18d45c21a5c5cf17824dfedcd5a34d4b05b93b8ed573637d77ec84c82"
+  },
+  {
+    "path": "assets/img/reviews/tri-silowati-1.webp",
+    "bytes": 109152,
+    "sha256": "2bb42e612acb742c98e279a2d8e1c47f312c8dae61494151641f4765430c16b5"
+  },
+  {
+    "path": "assets/img/reviews/tri-silowati-2.webp",
+    "bytes": 95580,
+    "sha256": "e6a714c7aee61f9324affeb477c2a20f1efce712a8dcab7b0bc69230f258b254"
+  },
+  {
+    "path": "assets/img/services/medical-ozone-patient-care-2026-mobile.webp",
+    "bytes": 38388,
+    "sha256": "b4423a3231ef69060a02aa2c5171fa1ec0cc8329ee850f97eb4ab696b84d9f59"
+  },
+  {
+    "path": "assets/img/services/medical-ozone-patient-care-2026.webp",
+    "bytes": 61922,
+    "sha256": "6b3c9ad962919444dfae1bda59eadb6a169c30be0fe345c6cf8c51f859113154"
+  },
+  {
+    "path": "assets/img/services/medical-ozone-procedure.webp",
+    "bytes": 14332,
+    "sha256": "e32449614b16383b7dfc9368aa686b4f84b47d01bc275387771dbdb16eb21a13"
+  },
+  {
+    "path": "assets/img/services/palliative-clinical-care-2026-mobile.webp",
+    "bytes": 31684,
+    "sha256": "f110f3890eb76903914bb0b6be8b242c501a33b7237adca735f678e1a527342f"
+  },
+  {
+    "path": "assets/img/services/palliative-clinical-care-2026.webp",
+    "bytes": 38890,
+    "sha256": "36342fcef73b7cc13dcd10118245207e6dca7e567cbbfb5f96a4333a4389a4d1"
+  },
+  {
+    "path": "assets/img/svc-antiaging.webp",
+    "bytes": 77686,
+    "sha256": "ed089cd8855b17c4444b8b99deed5d14c721722956438e9072429fda8ef32681"
+  },
+  {
+    "path": "assets/img/svc-ozone.webp",
+    "bytes": 40332,
+    "sha256": "86e49478d4b277764814ce0ac7a5b86e1547099d217995a5d700fbf9a63f2bb0"
+  },
+  {
+    "path": "assets/img/svc-palliative.webp",
+    "bytes": 125298,
+    "sha256": "be7cee79906ab29746c75cb9ea7cb25c510b2d61b96ad6d250d07b7c22560185"
+  },
+  {
+    "path": "assets/img/team/q-life-medical-team-2026.webp",
+    "bytes": 146726,
+    "sha256": "787fc21c4e6cb62501d7240fd2cce3960e2dfbb2b0070151dc5fa55652728207"
+  },
+  {
+    "path": "assets/img/team-medical-ozone.webp",
+    "bytes": 35032,
+    "sha256": "71e0796fa758b4b0affce8542c1bd4c6a5ef91173960685344ebb54b835fa4c6"
+  },
+  {
+    "path": "assets/img/video/dr-sri-qna-poster.webp",
+    "bytes": 52556,
+    "sha256": "dc8ce192653dd8c04e9fea8adfae31f343ba62b36829236acfba1c44b6ef170c"
+  },
+  {
+    "path": "assets/img/video/dr-sri-qna-teaser.webp",
+    "bytes": 30986,
+    "sha256": "afdd501c26b2a1327da1708a87d63cfc390d0494ef0102c419dc8a6856cab2e6"
+  },
+  {
+    "path": "assets/img/why-care.webp",
+    "bytes": 33830,
+    "sha256": "9d9b7d6ded3ccbeee062d2e1a6cd592b11d5fafd2e24f448080a66227fb45f8d"
+  },
+  {
+    "path": "assets/img_backup/about/anti-aging-source.jpg",
+    "bytes": 17464,
+    "sha256": "9b484e5df988d3ff4d8488520095a444fc5e3536011b944a0f36b8a4355b157e"
+  },
+  {
+    "path": "assets/img_backup/about/clinic-brochure-banner.jpg",
+    "bytes": 28544,
+    "sha256": "4512773438b8d715f26d8054bf763d4c38e715ad9f44751d519ee54b16c8fed4"
+  },
+  {
+    "path": "assets/img_backup/about/clinic-slide-1.jpg",
+    "bytes": 73273,
+    "sha256": "ee9114958e9ba6e70c1c7e746602e4c283cb5432a07ddffc3dd93027f519bed6"
+  },
+  {
+    "path": "assets/img_backup/about/clinic-slide-2.jpg",
+    "bytes": 74719,
+    "sha256": "a8e33c048132ecaa27d4de77e189f1449cf703487332013a7831af421df8ec93"
+  },
+  {
+    "path": "assets/img_backup/about/clinic-slide-3.jpg",
+    "bytes": 47854,
+    "sha256": "ff30fd66c75a345db22c7b84860d7454c323da415f99d6d2b0d1a8909e3e35c2"
+  },
+  {
+    "path": "assets/img_backup/about/palliative-source.jpg",
+    "bytes": 24310,
+    "sha256": "18dd06b589aa69cf3bd7f2cb0b42b268b9358c7708f94c5dc87e9c0d0de6bd9f"
+  },
+  {
+    "path": "assets/img_backup/about/therapy-ozone-source.jpg",
+    "bytes": 26005,
+    "sha256": "227615530c6d9f9e65afc4263fc9d21eea9282cb5d84d89830faece9680c2366"
+  },
+  {
+    "path": "assets/img_backup/about-clinic.jpg",
+    "bytes": 64992,
+    "sha256": "22d251a64165d4a6d3d17353caf51a6260b41a413ea1d3f00674921a6d90dd09"
+  },
+  {
+    "path": "assets/img_backup/content_-56cd1db156645.jpg",
+    "bytes": 9197,
+    "sha256": "9fd4a33f0a6d773cb0b4cdb15cc4d1099583d2ed24014228f3f433bb961f995b"
+  },
+  {
+    "path": "assets/img_backup/content_-56cd21a4e760a.jpg",
+    "bytes": 6418,
+    "sha256": "f740a095b99b1d2ffc0e4fb4b70bbf0acf25b580eff749d5426140f89c6b311c"
+  },
+  {
+    "path": "assets/img_backup/dokter-feri.jpg",
+    "bytes": 19894,
+    "sha256": "071c62da59b550efd9e11326c797a94b5c023fa33b4f2f32cdf5b99d8827b7e6"
+  },
+  {
+    "path": "assets/img_backup/dokter-sri.jpg",
+    "bytes": 10904,
+    "sha256": "494359bce50eac824cd43cf61ba76f711a386cb5999beb4a200145333b0fab39"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-01.jpg",
+    "bytes": 54304,
+    "sha256": "cc10a77087b2d714b80a045ec5ce8402d950c8d9450b2b27891031834010f172"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-02.jpg",
+    "bytes": 41425,
+    "sha256": "5e849d5fbb4a6d05d1e2e6b8a78930d46666a1690984b65d0f6369472defe772"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-03.jpg",
+    "bytes": 51661,
+    "sha256": "d38d296b28dbe5aa09893343c127cddc6f1c16beb67d780754e1ad50249f93fb"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-04.jpg",
+    "bytes": 43365,
+    "sha256": "ec82bf728477603ee76fd3bfe5e80a6068d45fa5b0c50f8a2a0c310bed5ed5e3"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-05.jpg",
+    "bytes": 61594,
+    "sha256": "72c78342bdc478cd3bc26318f22658759eee9d2d110caaf0d0e50efd185595ca"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-06.jpg",
+    "bytes": 46443,
+    "sha256": "74a77cc23f845e146adfaed81c791482031cdb5568888fc41b424c2d00d0893c"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-07.jpg",
+    "bytes": 43992,
+    "sha256": "f2f5afb19ae6f4fa23a51754f80eb8f1be0c97f2dc1d0f4e1cf12c045b97aa8a"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-08.jpg",
+    "bytes": 47180,
+    "sha256": "45874396161f901f24a89303ad2803223cb51e8c7f6bc72bf09d0b16f8bdf0db"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-09.jpg",
+    "bytes": 73169,
+    "sha256": "c2cf4d4a136c75b3be60d9a228d9eedc6097ee6d4c690fc6642a4c4d76034943"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-10.jpg",
+    "bytes": 61997,
+    "sha256": "d30b3046d4e705da12956cf66e649427032dcd8334b42c2fa3b12cf56baeab0d"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-11.jpg",
+    "bytes": 42766,
+    "sha256": "a2f09e8e75b634aebc63bafc16a05deee992c872736709b850a0e912e1537eba"
+  },
+  {
+    "path": "assets/img_backup/gallery/gallery-12.jpg",
+    "bytes": 44897,
+    "sha256": "a7f503bae2e4c11f055e33ba2d38ea56f6effe36dc4bd5858993d5ea053e0023"
+  },
+  {
+    "path": "assets/img_backup/headerlogo.png",
+    "bytes": 16728,
+    "sha256": "d9a7a34a2a17d64328a76346295b5cf6942c8ce62fb55966c2b49e83214dde96"
+  },
+  {
+    "path": "assets/img_backup/svc-antiaging.jpg",
+    "bytes": 63842,
+    "sha256": "410a54667b58cc943d07276dcf78dda06991952ce82926d90fcca2c7494356ca"
+  },
+  {
+    "path": "assets/img_backup/svc-ozone.jpg",
+    "bytes": 44870,
+    "sha256": "6876b779090d81368c26f54ee3b51fd1ca4285ae686318bad2855117e1764954"
+  },
+  {
+    "path": "assets/img_backup/svc-palliative.jpg",
+    "bytes": 44404,
+    "sha256": "a783198206656d8cedc1af2875e27d1f8d6ea6deb519eb860d51d1547ab26a78"
+  },
+  {
+    "path": "assets/img_backup/why-care.jpg",
+    "bytes": 38114,
+    "sha256": "ff5f47af2660b7a49b6180e19bb1d194ed50483887dcbe6e1a70cf0771322764"
+  },
+  {
+    "path": "assets/js/about-motion.js",
+    "bytes": 1312,
+    "sha256": "a7027a3f688b8708e93c46af4d90d202df679315c26008c51676d48c5d18551c"
+  },
+  {
+    "path": "assets/js/anti-aging-motion.js",
+    "bytes": 5386,
+    "sha256": "a1043934e8d0eeb2980988562190f09817614ab7133985e248ce176a4786e401"
+  },
+  {
+    "path": "assets/js/editorial-pages-motion.js",
+    "bytes": 2924,
+    "sha256": "56b65ce8dc678d3e9e07ab853b19efba91641ecfcf565ed486a2227c4764049c"
+  },
+  {
+    "path": "assets/js/gradient.js",
+    "bytes": 7568,
+    "sha256": "afe8e9730307e33782e8bc0a97d03e276e38c4cbd4740920b12e269dcc3decec"
+  },
+  {
+    "path": "assets/js/main.js",
+    "bytes": 35386,
+    "sha256": "d0a90bd1320fd7500f51fb0db1b610f2913ac5defa2951e95f4ec0a3fe1aa770"
+  },
+  {
+    "path": "assets/js/oz.js",
+    "bytes": 6898,
+    "sha256": "8303e24db8e6473d96e53531078a71821d3536111d739800eca30a8f4f8e33fc"
+  },
+  {
+    "path": "assets/js/pages.js",
+    "bytes": 3482,
+    "sha256": "3760baaf34bc95ed9d4b00b8991310249e2fa36ced7742498107ea3958576baf"
+  },
+  {
+    "path": "assets/js/palliative-motion.js",
+    "bytes": 4137,
+    "sha256": "22eac3d7ba386f0f82081cb9353e5b18d80b3c111949510dcdb6f8b5a0329509"
+  },
+  {
+    "path": "assets/js/shell.js",
+    "bytes": 7997,
+    "sha256": "f830c7a6f29e3bff5520b3733bebc66b1cbca25c15fcc5a80622cbb95952c450"
+  },
+  {
+    "path": "assets/js/style.css",
+    "bytes": 69529,
+    "sha256": "19839c7b071654ceb57ff93de2c156da1ce2a9e73fbb1c2077c735b88bcd28d7"
+  },
+  {
+    "path": "assets/video/dr-sri-qna.mp4",
+    "bytes": 12042877,
+    "sha256": "c67e9bcd35f6e2249192294a7feb4aabffebb09bf1795f596260a30467e89c22"
+  },
+  {
+    "path": "dokter.html",
+    "bytes": 8057,
+    "sha256": "b88b42fb464d98658575f957c0e02d4740bb7823f1cacc946ae65f33c4e9a125"
+  },
+  {
+    "path": "en/anti-aging.html",
+    "bytes": 8541,
+    "sha256": "69f4553677d25c5cf61f6c21cfb33bdb951833810bfb076a9d1e15a92b25ed32"
+  },
+  {
+    "path": "en/artikel.html",
+    "bytes": 7592,
+    "sha256": "34645f98586add4bf103c737847037ef19bcc7777db3ca2e7420a8b071ed77d2"
+  },
+  {
+    "path": "en/dokter.html",
+    "bytes": 7771,
+    "sha256": "298c748222d5114475a4797cdf8910448497729818a50812d0f58d779dc0ea59"
+  },
+  {
+    "path": "en/index.html",
+    "bytes": 56904,
+    "sha256": "0dcad8fafd3fa0b17ae049591a73df67ddcfb154b9e84793edd7bfd6caebd432"
+  },
+  {
+    "path": "en/kontak.html",
+    "bytes": 7552,
+    "sha256": "686b9c810fb13470c07b45b40173726464791a212c830204c698b5c239b67e9e"
+  },
+  {
+    "path": "en/medical-ozone.html",
+    "bytes": 21634,
+    "sha256": "2b5e906d939af35d7d42c2836d186be527012e191ca4f15278219ee97f12a356"
+  },
+  {
+    "path": "en/palliative.html",
+    "bytes": 11044,
+    "sha256": "e300193e5340c0dfdadf8411acefdca19aa6175fab9c91a080ef9010bc5819f7"
+  },
+  {
+    "path": "en/tentang.html",
+    "bytes": 10271,
+    "sha256": "fec219ccd62349345109838393ad64d05a484f188d6c0d59d856e9cf84ba7142"
+  },
+  {
+    "path": "index.html",
+    "bytes": 61605,
+    "sha256": "6edcf052d1807ef00c7aa92b88d076aa1ef5a0b5879a56dc165cdd9decad6860"
+  },
+  {
+    "path": "kontak.html",
+    "bytes": 7614,
+    "sha256": "3a4d6bd97eef0741497dc7ecbd584fec6d789ee931d9d2d3ba9c5a73ade7dedd"
+  },
+  {
+    "path": "medical-ozone.html",
+    "bytes": 23055,
+    "sha256": "02d49710cc45b319a94669ab95800945102fec31da153a96f15def4bff9fc41c"
+  },
+  {
+    "path": "palliative.html",
+    "bytes": 10993,
+    "sha256": "3811a3c6922548c26aa29b4976ec904e69a3467a6e1e4282b0d4d43cfcd1faa1"
+  },
+  {
+    "path": "robots.txt",
+    "bytes": 70,
+    "sha256": "e761aaddd3828feb1dda562c62aa99d831490ac936fffd79d155a449ffe8e256"
+  },
+  {
+    "path": "sitemap.xml",
+    "bytes": 6889,
+    "sha256": "83af788a448da3cb45ef0a2c757129cc96d459556e0acd1624594defa69f70f1"
+  },
+  {
+    "path": "tentang.html",
+    "bytes": 9928,
+    "sha256": "7fd6418bf555a226c462b7b99bcdb228c2fa77febe345067a338af2ddc120562"
+  }
+]
